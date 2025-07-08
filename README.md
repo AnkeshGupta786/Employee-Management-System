@@ -22,21 +22,4 @@ Styling: CSS modules or Bootstrap (as per the repo)
 
 REST API: JSON-based CRUD endpoints
 
-# 📁 Folder Structure
-graphql
-Copy
-Edit
-/
-├── backend/
-│   ├── models/        # Mongoose schemas (e.g., Employee.js)
-│   ├── routes/        # Express routes (CRUD operations)
-│   ├── controllers/   # Controller logic
-│   ├── config/        # DB config and environment variables
-│   └── server.js      # Entry point for server
-└── frontend/
-    ├── public/
-    ├── src/
-    │   ├── components/  # Form, list, update components
-    │   ├── pages/       # Views (e.g., Dashboard, AddEmployee)
-    │   ├── services/    # API call wrappers (Axios)
-    │   └── App.js       # Routes and layout
+
